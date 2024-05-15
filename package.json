@@ -1,6 +1,6 @@
 {
-  "name": "calculater",
-  "version": "1.0.0",
+  "name": "e6c-calculater",
+  "version": "1.0.1",
   "description": "a simple calulater with TYPESCRIPT, Node.js and inquirer",
   "main": "main.js",
   "type": "module",
