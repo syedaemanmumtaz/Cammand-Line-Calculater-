@@ -4,10 +4,11 @@
   "description": "a simple calulater with TYPESCRIPT, Node.js and inquirer",
   "main": "main.js",
   "type": "module",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Syeda Emaan",
   "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.16"
